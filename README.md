@@ -85,6 +85,9 @@ Two approaches used:
 * Morphological operations
 * Contour detection
 
+📸 SCREENSHOT HERE:
+👉 ![Segmentation](assets/Segmentation1.png)
+
 #### 🔹 Advanced (U-Net)
 
 * Encoder-decoder architecture
