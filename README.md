@@ -91,7 +91,7 @@ Two approaches used:
 * Pixel-wise tumor detection
 
 📸 SCREENSHOT HERE:
-👉 ![Segmentation](assets/segmentation2.png)
+👉 ![Segmentation](assets/Segmentation2.png)
 
 ---
 
