@@ -70,7 +70,7 @@ data/
 📊 Achieved Accuracy:
 👉 ~86%
 
-📸 ADD SCREENSHOT HERE:
+📸 SCREENSHOT HERE:
 👉 ![Accuracy](assets/accuracy.png)
 
 ---
@@ -90,7 +90,7 @@ Two approaches used:
 * Encoder-decoder architecture
 * Pixel-wise tumor detection
 
-📸 ADD SCREENSHOT HERE:
+📸 SCREENSHOT HERE:
 👉 ![Segmentation](assets/scegmentation2.png)
 
 ---
@@ -100,7 +100,7 @@ Two approaches used:
 * Visualizes which part of image influenced prediction
 * Helps in understanding model decisions
 
-📸 ADD SCREENSHOT HERE:
+📸 SCREENSHOT HERE:
 👉 ![GradCAM](assets/gradcam.png)
 
 ---
@@ -111,7 +111,7 @@ Two approaches used:
 * Classification Report
 * Accuracy Metrics
 
-📸 ADD SCREENSHOT HERE:
+📸 SCREENSHOT HERE:
 👉 ![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
