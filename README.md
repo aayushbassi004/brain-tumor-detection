@@ -176,30 +176,64 @@ Brain Tumor Detection/
 
 ## ▶️ How to Run
 
-### 1. Clone Repository
+### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/aayushbassi004/brain-tumor-detection
 cd brain-tumor-detection
 ```
 
-### 2. Install Dependencies
+---
+
+### 2️⃣ Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+---
+
+### 3️⃣ Activate Environment
+
+**Windows:**
+
+```bash
+venv\Scripts\activate
+```
+
+**Mac/Linux:**
+
+```bash
+source venv/bin/activate
+```
+
+---
+
+### 4️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run Notebooks
+---
 
-* Open Jupyter Notebook
-* Run:
+### 5️⃣ Run Project
 
-  * Classification notebook
-  * Segmentation notebook
-  * Grad-CAM notebook
-  * Evaluation notebook
+```bash
+jupyter notebook
+```
 
 ---
+
+### 📒 Notebooks to Run
+
+* Classification Notebook
+* Segmentation Notebook
+* Grad-CAM Notebook
+* Evaluation Notebook
+
+---
+
 
 ## 👨‍💻 Author
 
